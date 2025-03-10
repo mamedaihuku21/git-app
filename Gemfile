@@ -71,5 +71,9 @@ end
 
 gem 'devise'
 
+<<<<<<< Updated upstream
+gem 'pry-rails'
+>>>>>>> Stashed changes
+=======
 gem 'pry-rails'
 >>>>>>> Stashed changes
