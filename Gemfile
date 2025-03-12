@@ -66,22 +66,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
-<<<<<<< Updated upstream
-=======
 
-gem 'devise'
-
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 gem 'pry-rails'
->>>>>>> Stashed changes
-=======
-gem 'pry-rails'
->>>>>>> Stashed changes
-=======
-gem 'pry-rails'
->>>>>>> Stashed changes
-=======
-gem 'pry-rails'
->>>>>>> Stashed changes
